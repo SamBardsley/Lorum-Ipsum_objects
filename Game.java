@@ -1,5 +1,5 @@
 // Sam was here
-//hi Micheal
+//hi Michael
 public interface Game{
   public Game joinGame(Player[] players);
 }
